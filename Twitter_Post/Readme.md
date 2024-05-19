@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 ** 第44行的ip及端口见下图步骤获取
 
-![alt text](images/proxy.png)
+[images/proxy.png](https://github.com/Gesge/Twitter_Post/blob/main/Twitter_Post/images/proxy.png)
 
 ### 运行程序
 1. 终端运行下述命令；
