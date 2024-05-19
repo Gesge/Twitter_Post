@@ -55,7 +55,8 @@ pip install -r requirements.txt
  }
  ```
 
-![alt text](images/headers.png)
+![Uploading image.png…]()
+
 
 如何获取需要的信息：
 
