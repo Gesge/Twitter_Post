@@ -55,14 +55,14 @@ pip install -r requirements.txt
  }
  ```
 
-![Uploading image.png…]()
+![Image text](https://github.com/Gesge/Twitter_Post/blob/main/Twitter_Post/images/headers.png)
 
 
 如何获取需要的信息：
 
 首先进入任意一个博主主页，按下F12，然后F5刷新页面，在Network中找到对应的请求，点击Headers，找到cookie和csrf-token等信息，复制到对应的json文件中
 
-![alt text](images/config_headers.png)
+![Image text](https://github.com/Gesge/Twitter_Post/blob/main/Twitter_Post/images/config_headers.png)
 
 -- proxy.json 配置代理
 '''json
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 ** 第44行的ip及端口见下图步骤获取
 
-![alt text](images/proxy.png)
+![Image text](https://github.com/Gesge/Twitter_Post/blob/main/Twitter_Post/images/config_headers.png)
 
 ### 运行程序
 1. 终端运行下述命令；
