@@ -86,6 +86,9 @@ pip install -r requirements.txt
 ```python
 python main.py
 ```
+## 使用一段时候后报错的报错处理
+报错提示：请求失败，状态码：401
+解决方案：更新request_headers.json文件内的信息即可
 
 ## 注意事项
 1. 如果用户的推文太多，建议分时间段获取
